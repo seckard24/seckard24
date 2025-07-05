@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @seckard24
+- 👋 Hi, I’m @seckard24 or Steven Eckard 
 - 👀 I’m interested in comp science
-- 🌱 I’m currently learning coding with pyhton 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me snap : @bigcockgabriel
+- 🌱 I’m currently learning coding with pyhton and Java
+- 💞️ I’m looking to collaborate on Github or other coding platforms
+- 📫 How to reach me snap : 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
